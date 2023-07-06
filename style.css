@@ -25,7 +25,3 @@ button {
     background-color: #FFF;
     font-weight: 600;
 }
-button:hover{
-    transition: 1s;
-    
-}
